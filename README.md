@@ -24,3 +24,5 @@ Upon running the application, you'll be prompted to input:
 - **Array Elements**: N integers that constitute the array.
 
 Once the inputs are provided, the application processes the data and outputs the maximum possible value based on the implemented bitwise operation.
+
+© `<Jana-Abu-Hantash>`, `<abuhantash.jana@gmail.com>`, and `<2023>`.
